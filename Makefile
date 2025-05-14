@@ -3,4 +3,4 @@ main : main.c
 clean : 
 	rm -rf main
 asm :
-	gcc main.c -o main.asm -lpthread
+	gcc -S main.c -o main.asm -lpthread
