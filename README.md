@@ -164,11 +164,5 @@ Reallocated string: Hi there!
 
 ---
 
-## License
-
-MIT License
-
----
-
 
 
