@@ -119,7 +119,7 @@ All allocator operations are protected by a global mutex (`pthread_mutex_t`). Th
 | Contiguity | Always contiguous heap | Anywhere in address space |
 | Use case | Small/medium allocations | Large allocations, files |
 | Release memory | Only from heap end | Any mapped region |
-| Modern usage | Legacy | Modern |
+| Usage | Legacy | Modern |
 
 
 ---
